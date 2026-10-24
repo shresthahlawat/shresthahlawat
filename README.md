@@ -25,7 +25,8 @@ Freelance content writer, researcher, and journalist based in Delhi NCR. I have 
 - [Content marketing strategy guide](https://drive.google.com/file/d/1mFJGmHmkCUOGA-EixmFwqV_qd9nLeeez/view)
 
 ## Side projects
-I build small React apps for fun: an email-writing tool, an image editor, and a ping-pong game. Some will be added here soon.
+- **[IRONLOG](https://ironlog-six-hazel.vercel.app/)**: a Push/Pull/Legs gym tracker with a rest timer and progress charts, built with React ([code](https://github.com/shresthahlawat/ironlog))
+- More React apps (email-writing tool, image editor) coming soon
 
 ## Currently learning
 Python, data analytics, and SEO.
